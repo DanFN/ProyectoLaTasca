@@ -1,0 +1,23 @@
+{
+  "name": "ProyectoLaTasca",
+  "homepage": "https://github.com/DanFN/ProyectoLaTasca",
+  "authors": [
+    "DanFN <josedaniel.sanchez@alumno.uttehuacan.edu.mx>"
+  ],
+  "description": "Proyecto La tasca",
+  "main": "index.html",
+  "keywords": [
+    "tasca"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
